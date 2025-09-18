@@ -11,6 +11,9 @@ The code in this repository was developed as part of exam preparation and course
 - Myself (the repository author)
 - The professor
 - Students preparing for the FoCS exam
+## Main File
+
+The primary file to use in this repository is **Proggetto_Informatica.ipynb**.
 
 ## Exam Project
 
