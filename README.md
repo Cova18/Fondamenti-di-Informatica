@@ -38,10 +38,10 @@ This repository includes solutions to the following exam project tasks:
     - Note: You have to compute a ratio for each pair (payment type, interval)
 17. **Build chains of trips**
     - Two trips are consecutive in a chain if:
-        - (a) They have the same `VendorID`
-        - (b) The pickup location of the second trip is also the dropoff location of the first trip
-        - (c) The pickup time of the second trip is after the dropoff time of the first trip
-        - (d) The pickup time of the second trip is at most 2 minutes later than the dropoff time of the first trip
+        -  They have the same `VendorID`
+        -  The pickup location of the second trip is also the dropoff location of the first trip
+        -  The pickup time of the second trip is after the dropoff time of the first trip
+        -  The pickup time of the second trip is at most 2 minutes later than the dropoff time of the first trip
     - Add a column `chain` to the dataset. A chain can have more than two trips.
 ---
 
