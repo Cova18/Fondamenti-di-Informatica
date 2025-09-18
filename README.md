@@ -44,5 +44,3 @@ This repository includes solutions to the following exam project tasks:
         -  The pickup time of the second trip is at most 2 minutes later than the dropoff time of the first trip
     - Add a column `chain` to the dataset. A chain can have more than two trips.
 ---
-
-Happy coding and good luck with your exams!
